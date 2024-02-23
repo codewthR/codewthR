@@ -56,6 +56,6 @@ I'm Currently Working on Big Data Architecture ...
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codewthds&show_icons=true&locale=en" alt="codewthds" /></p>
 
-For support, email rahul.mdu@icloud.com  or join our you tube channel.
+For support, email rahul.mdu@icloud.com  and   join our you tube channel.
 
 
