@@ -2,9 +2,6 @@
 
 # Hi, I'm Rahul ! 👋
 
-## 🎯 Working
-I'm Currently Working on Big Data Architecture ...
-
 ## 🌐 Links
 [![Instagram](https://img.shields.io/badge/Instagram-%23d62976%20?style=flat&logo=Instagram&color=white
 )](https://www.instagram.com/coding.square_?igsh=MTJiYnFkZnRmemxheQ%3D%3D&utm_source=qr)[![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
