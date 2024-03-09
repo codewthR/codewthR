@@ -52,10 +52,10 @@
 ⚡️ Learn and Earn...
 
 <p align="center">
-  <img align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=codewthR&show_icons=true&theme=tokyonight" />
-  <img align="left" width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewthR&theme=tokyonight" />
-  <img align="left" width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthR&theme=tokyonight" align="center" />
+  <img align="left" width="25%" src="https://github-readme-stats.vercel.app/api?username=codewthR&show_icons=true&theme=tokyonight" />
+  <img align="left" width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewthR&theme=tokyonight" />
+  <img align="left" width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthR&theme=tokyonight" align="center" />
 </p>
-                        <p align="next" > more support, email rahul.mdu@icloud.com  and   join our you tube channel.</p> 
+                         more support, email rahul.mdu@icloud.com  and   join our you tube channel. 
 
 
