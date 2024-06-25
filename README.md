@@ -4,7 +4,7 @@
 
 ## 🌐 Links
 [![Instagram](https://img.shields.io/badge/Instagram-%23d62976%20?style=flat&logo=Instagram&color=white
-)](https://www.instagram.com/coding.square_?igsh=MTJiYnFkZnRmemxheQ%3D%3D&utm_source=qr)[![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
+)](https://www.instagram.com/?igsh=MTJiYnFkZnRmemxheQ%3D%3D&utm_source=qr)[![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
 )](https://youtube.com/@CodewithDS?si=XvDkAb39-7YTLHbp)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white
 )](https://twitter.com/CodewithDS)
