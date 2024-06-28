@@ -4,8 +4,9 @@
 
 ## 🌐 Links
 [![Instagram](https://img.shields.io/badge/Instagram-%23d62976%20?style=flat&logo=Instagram&color=white
-)](https://www.instagram.com/?igsh=MTJiYnFkZnRmemxheQ%3D%3D&utm_source=qr)[![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
-)](https://youtube.com/@CodewithDS?si=XvDkAb39-7YTLHbp)
+)](https://www.instagram.com/)
+[![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
+)](https://youtube.com/Codewth_R)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white
 )](https://twitter.com/CodewithDS)
 
@@ -15,8 +16,6 @@
 [![Python](https://img.shields.io/badge/Python-%233776ab?style=flat&logo=Python&logoColor=green
 )]()
 [![Office](https://img.shields.io/badge/MS%20Office-orange?style=flat&logo=Microsoft
-)]()
-[![React](https://img.shields.io/badge/React-%23FF0FFFF?style=flat&logo=React&logoColor=darkblue
 )]()
 [![react](https://img.shields.io/badge/MongoDB-%23ffff00?style=flat&logo=MongoDb&logoColor=red
 )]()
@@ -43,11 +42,6 @@
 [![apache](https://img.shields.io/badge/Apache%20-%23a42623?style=flat&logo=apache&logoColor=white
 )]()
 ## Other Common Github Profile Sections
-🧠 I'm currently learning...
-
-🤔 I'm looking for Data analyst job ...
-
-💬 Ask me about...
 
 ⚡️ Learn and Earn...
 
@@ -56,6 +50,7 @@
   <img align="left" width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewthR&theme=tokyonight" />
   <img align="left" width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthR&theme=tokyonight" align="center" />
 </p>
-                         more support, email rahul.mdu@icloud.com  and   join our you tube channel. 
+                  
+more support, email rahul.mdu@icloud.com  and   join our you tube channel. 
 
 
