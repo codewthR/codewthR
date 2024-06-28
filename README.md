@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
 )](https://youtube.com/Codewth_R)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white
-)](https://twitter.com/CodewithDS)
+)](https://twitter.com/Codewthr)
 
 ## 🛠 Skills
 [![Tableau](https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=darkred
