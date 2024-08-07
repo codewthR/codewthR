@@ -68,7 +68,7 @@
 <br>
 <div align="center">
 <br>
- <a href="mailto:rahulbhatia.ramm@gmail.com" target="_blank">
+ <a href="mailto:rahul.msc.mdu@gmail.com" target="_blank">
  <img alt="TF" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
 </div>
 
