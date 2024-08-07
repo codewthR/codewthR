@@ -53,6 +53,18 @@
 
 </div>
 
+# ☎ Contact 
+<br>
+<div align="center">
+<br>
+ <a href="mailto:rahul.msc.mdu@gmail.com" target="_blank">
+ <img alt="TF" height="26px" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
+</div>
+
+# ✨Stats 
+<p align="center">
+  <img width="800px" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 # 🎼 Recent 
 <br>
@@ -63,13 +75,4 @@
 </div>
 
 <br>
-
-# ☎ Contact 
-<br>
-<div align="center">
-<br>
- <a href="mailto:rahul.msc.mdu@gmail.com" target="_blank">
- <img alt="TF" height="26px" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
-</div>
-
-
+ 
