@@ -65,16 +65,11 @@
 <br>
 
 # ☎ Contact 
-Mail : rahul.mdu@icloud.com 
-
+<br>
 <div align="center">
 <br>
- <a href="mailto:radhika3273@gmail.com" target="_blank">
- <img alt="TF" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=white&color=fff&labelColor=pink"/>
- </a>
- <a href="https://www.linkedin.com/in/radhika-kakkar/" target="_blank">
- <img alt="TF" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=fff&labelColor=blue"/>
- </a>
+ <a href="mailto:rahulbhatia.ramm@gmail.com" target="_blank">
+ <img alt="TF" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
 </div>
 
 
