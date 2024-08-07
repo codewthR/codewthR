@@ -69,7 +69,7 @@
 <div align="center">
 <br>
  <a href="mailto:rahul.msc.mdu@gmail.com" target="_blank">
- <img alt="TF" he5ght="28px" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
+ <img alt="TF" height="26px" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
 </div>
 
 
