@@ -1,10 +1,8 @@
-
 <img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671628072/github-assets/me-moji_h0xgbp.png" width="200" align="right">
+<h1 align="center">Hi, I'm Rahul 👋🏻</h1>
 
+🌐 Links
 
- <h1 align="center">Hi, I'm Rahul 👋🏻</h1>
-
-# 🌐 Links
 [![Instagram](https://img.shields.io/badge/Instagram-%23d62976%20?style=flat&logo=Instagram&color=white
 )](https://www.instagram.com/)
 [![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
