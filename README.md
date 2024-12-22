@@ -1,4 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+<img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671628072/github-assets/me-moji_h0xgbp.png" width="200" align="right">
+
 
  <h1 align="center">Hi, I'm Rahul 👋🏻</h1>
 
