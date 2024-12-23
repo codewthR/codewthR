@@ -1,10 +1,10 @@
-<summary><h1>Hi, I'm Rahul 🖐️</h1></summary>
+<summary><h3>Hi, I'm Rahul</h3></summary>
 
 <hr>
 
 <summary>
     <img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671628072/github-assets/me-moji_h0xgbp.png" width="200" align="right">
-    <h2>📒 About</h2>
+    <h3>About</h3>
     <ul>🌱 I'm currently working on Library_mgmt_system</ul>
     <ul>👨‍💻 Python Full Stack Developer</ul>
     <ul>💬 Ask me about Python, Application Development, Database</ul>
@@ -14,7 +14,7 @@
 <hr>
 
 <summary>
-    <h3>🤝 Connect with me:</h3> 
+    <h3>Connect with me:</h3> 
     <div align="center">
     <p>
         <a href="https://linkedin.com/in/codewithr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday sharma" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 <hr>
 
 <summary>
-    <h2>🛠 Skills</h2>
+    <h3>Skills</h3>
     <div align="center">
         <table style="border: none; width: 100%;">
             <tr style="border: none;">
@@ -72,7 +72,7 @@
 <hr>
 
 <summary>
-    <h2>✨ Stats</h2>
+    <h3>Stats</h3>
     <p>
         <img width="800px" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
     </p>
@@ -81,7 +81,7 @@
 <hr>
 
 <summary>
-    <h2>🎼 Recent</h2><br>
+    <h3>Recent</h3><br>
     <div align="center">
         <img src="https://apple-music-cards.vercel.app/?" >
     </div>
