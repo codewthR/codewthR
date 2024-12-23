@@ -8,7 +8,7 @@
     <ul>🌱 I'm currently working on Library_mgmt_system</ul>
     <ul>👨‍💻 Python Full Stack Developer</ul>
     <ul>💬 Ask me about Python, Application Development, Database</ul>
-    <ul>📫 Reach me <a href="mailto:rahul.mdu@icloud.com">rahul.mdu@icloud.com</a></ul>
+    <ul>📫 Reach me <a href="mailto:rahul.mdu10@gmail.com">rahul.mdu@icloud.com</a></ul>
 </summary>
 
 <hr>
