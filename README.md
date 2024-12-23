@@ -1,78 +1,91 @@
-<img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671628072/github-assets/me-moji_h0xgbp.png" width="200" align="right">
-<h1 align="center">Hi, I'm Rahul 👋🏻</h1>
+<summary><h1>Hi, I'm Rahul 🖐️</h1></summary>
 
-🌐 Links
+<hr>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23d62976%20?style=flat&logo=Instagram&color=white
-)](https://www.instagram.com/)
-[![YouTube](https://img.shields.io/badge/You%20Tube-%23CD201F?style=flat&logo=YouTube&logoColor=red&labelColor=%23F3E7D3
-)](https://youtube.com/Codewth_R)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white
-)](https://twitter.com/Codewthr)
-<br>
-<br>
-# 🛠 Skills
-<div align="center">
-<table style="border: none; width: 100%;">
-    <tr style="border: none;">
-        <td style="border: none;"><b>Languages</b></td>
-        <td align="right" style="border: none;">
-          <img src="https://img.shields.io/badge/Python-%233776ab?style=flat&logo=Python&logoColor=green">
-          <img src="https://img.shields.io/badge/HTML%20-whiteblack?style=flat&logoColor=blue">
-          <img src="https://img.shields.io/badge/R%20Programing-%238f00ff?style=flat&logo=R&logoColor=white">
-          <img src="https://img.shields.io/badge/C%2B%2B%20-black?style=flat&logo=c%2B%2B&logoColor=blue">
-          <img src="https://img.shields.io/badge/C%20-white?style=flat&logo=c">
-        </td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none;"><b>Frameworks</b></td>
-        <td align="right" style="border: none;">
-            <img src="https://img.shields.io/badge/TensorFlow-%23ffb800?style=flat&logo=TensorFlow&logoColor=white">
-            <img src="https://img.shields.io/badge/NumPy-yellow?style=flat&logo=numpy&logoColor=red">
-            <img src="https://img.shields.io/badge/Pandas-%23ff006d?style=flat&logo=Pandas&logoColor=white">
-            <img src="https://img.shields.io/badge/OpenCv-%238f00ff?style=flat&logo=OpenCv&logoColor=white">
-        </td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none;"><b>Databases</b></td>
-        <td align="right" style="border: none;">
-            <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00758F&labelColor=00618A">
-          <img src="https://img.shields.io/badge/Apache%20-%23a42623?style=flat&logo=apache&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-%23ffff00?style=flat&logo=MongoDb&logoColor=red">
-        </td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none;"><b>Visualization Tools</b></td>
-      <td align="right" style="border: none;">
-        <img src="https://img.shields.io/badge/MS%20Office-orange?style=flat&logo=Microsoft">
-      <img src="https://img.shields.io/badge/Power%20Bi%20-yellow?style=flat&logo=powerbi">     
-         <img src="https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=darkred">
-        </td>
-    </tr>
-</table>
+<summary>
+    <img src="https://res.cloudinary.com/daimnidk6/image/upload/v1671628072/github-assets/me-moji_h0xgbp.png" width="200" align="right">
+    <h2>📒 About</h2>
+    <ul>🌱 I'm currently working on Library_mgmt_system</ul>
+    <ul>👨‍💻 Python Full Stack Developer</ul>
+    <ul>💬 Ask me about Python, Application Devlopment, Database</ul>
+    <ul>📫 Reach me rahul.mdu@icloud.com</ul>
+</summary>
 
-</div>
+<hr>
 
-# ☎ Contact 
-<br>
-<div align="center">
-<br>
- <a href="mailto:rahul.msc.mdu@gmail.com" target="_blank">
- <img alt="TF" height="26px" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=black&color=fff&labelColor=blue"/>
-</div>
+<summary>
+    <h3>🤝 Connect with me:</h3> 
+    <div align="center">
+        <a href="https://linkedin.com/in/codewithr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        
+        generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+        <a href="https://instagram.com/rah_ul_12__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+        generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+        <a href="https://www.youtube.com/c/codewthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+        generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+    </div>
+</summary>
 
-# ✨Stats 
-<p align="center">
-  <img width="800px" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+<hr>
 
-# 🎼 Recent 
-<br>
-<div align="center">
-<br>
-<img src="https://apple-music-cards.vercel.app/?" align="center">
-</a>
-</div>
+<summary>
+    <h2>🛠 Skills</h2>
+    <div align="center">
+        <table style="border: none; width: 100%;">
+            <tr style="border: none;">
+                <td style="border: none;"><b>Languages</b></td>
+                <td align="right" style="border: none;">
+                  <img src="https://img.shields.io/badge/Python-%233776ab?style=flat&logo=Python&logoColor=green">
+                  <img src="https://img.shields.io/badge/HTML%20-whiteblack?style=flat&logoColor=blue">
+                  <img src="https://img.shields.io/badge/R%20Programing-%238f00ff?style=flat&logo=R&logoColor=white">
+                  <img src="https://img.shields.io/badge/C%2B%2B%20-black?style=flat&logo=c%2B%2B&logoColor=blue">
+                  <img src="https://img.shields.io/badge/C%20-white?style=flat&logo=c">
+                </td>
+            </tr>
+            <tr style="border: none;">
+                <td style="border: none;"><b>Frameworks</b></td>
+                <td align="right" style="border: none;">
+                    <img src="https://img.shields.io/badge/TensorFlow-%23ffb800?style=flat&logo=TensorFlow&logoColor=white">
+                    <img src="https://img.shields.io/badge/NumPy-yellow?style=flat&logo=numpy&logoColor=red">
+                    <img src="https://img.shields.io/badge/Pandas-%23ff006d?style=flat&logo=Pandas&logoColor=white">
+                    <img src="https://img.shields.io/badge/OpenCv-%238f00ff?style=flat&logo=OpenCv&logoColor=white">
+                </td>
+            </tr>
+            <tr style="border: none;">
+                <td style="border: none;"><b>Databases</b></td>
+                <td align="right" style="border: none;">
+                    <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00758F&labelColor=00618A">
+                  <img src="https://img.shields.io/badge/Apache%20-%23a42623?style=flat&logo=apache&logoColor=white">
+                  <img src="https://img.shields.io/badge/MongoDB-%23ffff00?style=flat&logo=MongoDb&logoColor=red">
+                </td>
+            </tr>
+            <tr style="border: none;">
+                <td style="border: none;"><b>Visualization Tools</b></td>
+              <td align="right" style="border: none;">
+                <img src="https://img.shields.io/badge/MS%20Office-orange?style=flat&logo=Microsoft">
+              <img src="https://img.shields.io/badge/Power%20Bi%20-yellow?style=flat&logo=powerbi">     
+                 <img src="https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=darkred">
+                </td>
+            </tr>
+        </table>
+    </div>
+</summary>
 
-<br>
- 
+<hr>
+
+<summary>
+    <h2>✨ Stats</h2>
+    <p>
+        <img width="800px" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewthr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+    </p>
+</summary>
+
+<hr>
+
+<summary>
+    <h2>🎼 Recent</h2><br>
+    <div align="center">
+        <img src="https://apple-music-cards.vercel.app/?" >
+    </div>
+    
+</summary>
+
