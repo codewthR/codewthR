@@ -16,12 +16,11 @@
 <summary>
     <h3>🤝 Connect with me:</h3> 
     <div align="center">
-        <a href="https://linkedin.com/in/codewithr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        
-        generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-        <a href="https://instagram.com/rah_ul_12__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-        generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/c/codewthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-        generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+    <p>
+        <a href="https://linkedin.com/in/codewithr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday sharma" height="30" width="40" /></a>
+        <a href="https://instagram.com/rah_ul_12__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udaysharmaaaaa" height="30" width="40" /></a>
+        <a href="https://www.youtube.com/c/codewthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uday sharma" height="30" width="40" /></a>
+    </p>
     </div>
 </summary>
 
