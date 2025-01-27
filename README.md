@@ -84,11 +84,7 @@
     <h3>Recent</h3><br>
     <div align="center">
         <img src="https://apple-music-cards.vercel.app/?" >
-    </div>
-    <div>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{codewthr}/count.svg" /></p> 
-    </div>
-    
+    </div>    
 </summary>
 
 
